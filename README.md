@@ -5,9 +5,6 @@
 
 A simple, powerful, and completely offline video compressor for Windows, built with Python and FFmpeg.
 
-![SleekCompressor Demo](https-placeholder-for-your-demo.gif)
-*(Replace this with a link to your own demo GIF after uploading)*
-
 ## ✨ Features
 
 *   **100% Offline & Private:** Your video files are never uploaded. Compression happens entirely on your machine.
@@ -31,7 +28,7 @@ To build this project yourself, you will need the following prerequisites instal
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YourUsername/SleekCompressor.git
+    git clone https://github.com/TirupMehta/SleekCompressor.git
     cd SleekCompressor
     ```
 
