@@ -14,6 +14,15 @@ A simple, powerful, and completely offline video compressor for Windows, built w
 *   **No Installation Needed (Standalone):** The final executable works on any Windows 10/11 machine without needing to install Python or any dependencies.
 *   **Open Source:** The code is clean, commented, and easy to understand.
 
+## 🚀 Download & Installation (for Users)
+
+If you just want to use the application, you don't need to build it from source.
+
+1.  Go to the **[Latest Release](https://github.com/YourUsername/SleekCompressor/releases/latest)** page.
+    *(**Note:** You must edit this link to point to your actual GitHub repository URL).*
+2.  Under the **Assets** section, download the `SleekCompressor_Setup.exe` file.
+3.  Run the downloaded installer and follow the on-screen instructions.
+
 ## 🛠️ How to Build From Source
 
 To build this project yourself, you will need the following prerequisites installed on your system.
